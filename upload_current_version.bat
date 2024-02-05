@@ -1,0 +1,2 @@
+git push --all
+pause
